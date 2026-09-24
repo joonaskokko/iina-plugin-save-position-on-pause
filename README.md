@@ -3,6 +3,8 @@ Very simple plugin for IINA to save video position when user presses pause. 90% 
 
 Fixes my number #1 annoyance in IINA.
 
+Install by downloading the release on the right-hand side and double click.
+
 Pack with:
 ```
 $ iina-plugin pack SavePositionOnPause
