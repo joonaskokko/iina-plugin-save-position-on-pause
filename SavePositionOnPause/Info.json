@@ -1,0 +1,11 @@
+{
+  "name": "Save position on pause",
+  "identifier": "com.joonas.iina-plugin-save-position-on-pause",
+  "version": "1.0.0",
+  "description": "Save the current video position whenever playback is paused.",
+  "author": {
+    "name": "Joonas Kokko"
+  },
+  "entry": "src/index.js",
+  "permissions": []
+}
